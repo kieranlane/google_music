@@ -1,6 +1,6 @@
 # google_music
 
-Google Music
+This is my attempt to learn flutter app development by 'attempting' to recreate the functionality/feature-set of Google Play Music in an application styled like YouTube Music - mainly because I really dislike the the YouTube music app and am being forced onto it :( Not sure if actually getting the YouTube Music aspect will ever work/is possible :P
 
 ## Getting Started
 
